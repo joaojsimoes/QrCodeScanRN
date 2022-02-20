@@ -1,2 +1,3 @@
 # QrCodeScanRN
  
+![273626322_265342465742644_7774932035212400275_n](https://user-images.githubusercontent.com/45096382/154856428-30660aa2-ce53-4670-8faa-6a8726ccb4af.jpg)
